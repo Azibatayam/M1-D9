@@ -1,5 +1,5 @@
 
-<body> { 
+body { 
     background-color: aqua;
     color: black
     font-family ;
@@ -17,11 +17,11 @@ h1 {
 }
 
 #game-container {
-    body-style: solid;
+    border-style: solid;
     border-width: 3px;
-    border-color: indigo
+    border-color: indigo;
     padding: 12px;
-    border-raduis: 8px;
+    border-radius: 8px;
     display: inline-block;
     width: 60%;
 }
@@ -34,7 +34,7 @@ h1 {
     text-align: center;
     padding-top: 32px;
     font-size: x-large;
-    border-color:hotpink
+    border-color:hotpink;
     border-width: 2px;
     margin: 3px;
     border-radius: 10px;
